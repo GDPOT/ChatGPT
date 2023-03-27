@@ -32,7 +32,7 @@ VITE_API_URL=http://localhost:8000
 create .env in root folder
 
 ```
-OPENAI_API_KEY = YOU_API_KEY_HERE
+OPENAI_API_KEY =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
 MONGO_URI = mongodb://0.0.0.0:27017/chatGPT
 ```
 
